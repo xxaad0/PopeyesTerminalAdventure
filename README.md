@@ -4,7 +4,7 @@
 This is a terminal adventure game in python. I used the arcade api. You can check https://api.arcade.academy/en/stable/
 for more details. 
 
-This is by Saad Shahid and it is for the checkpoint project in Codex.
+This is by Saad Shahid and it is for the checkpoint project in Codedex.
 
 ## Overview of the Game
 
