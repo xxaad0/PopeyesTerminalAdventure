@@ -16,7 +16,7 @@ Or go face the goblin in the dungeon.
 The game has ASCII art of popeye, messages (animated), choices, a battle system, stats like exp, sound effects and music
 from Arcade.
 
-## Requiurements
+## Requirements
 
 python 3.10+
 - Arcade --> https://api.arcade.academy/en/stable/
